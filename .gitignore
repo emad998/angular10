@@ -1,8 +1,0 @@
-# Angular
-/dist/
-/bazel-out
-/integration/bazel/bazel-*
-e2e_test.*
-node_modules
-tools/gulp-tasks/cldr/cldr-data/
-
